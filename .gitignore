@@ -1,7 +1,5 @@
 .*
 !.gitignore
-application.conf
-!application.conf.example
 target/
 .metals
 project/
